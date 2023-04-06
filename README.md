@@ -4,12 +4,12 @@
 
 - Je m'appelle Maxence (aka Maksance) 👨‍💻
 - J'ai 19 ans et je suis un développeur full stack passionné depuis 7 ans 🚀
-- J'apprends et je m'améliore chaque jour 📚
-- Je suis féru de petits projets amusants en PHP, HTML, CSS et JS que j'affectionne beaucoup 😄
+- J'apprends et je m'améliore chaque jour en BUT MMI à l'IUT d'Angoulême ! 📚
+- Je suis féru de petits projets amusants en PHP et JAVASCRIPT que j'affectionne beaucoup 😄
 
 ## 💼 Compétences 
 
-- Langages de programmation : PHP, HTML, CSS, JS 💻
+- Langages de programmation : PHP, JS (HTML + CSS) 💻
 - Développement full stack : du front-end au back-end 🌐
 - Création de projets web amusants et interactifs 😉
 - Autodidacte et apprenant rapide 📖
