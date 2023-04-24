@@ -3,7 +3,7 @@
 ## 🙋‍♂️ À propos de moi 
 
 - Je m'appelle Maxence (aka Maksance) 👨‍💻
-- J'ai 19 ans et je suis un développeur full stack passionné depuis 7 ans 🚀
+- J'ai 19 ans et je suis un développeur full stack autodidacte passionné depuis 7 ans 🚀
 - J'apprends et je m'améliore chaque jour en BUT MMI à l'IUT d'Angoulême ! 📚
 - Je suis féru de petits projets amusants en PHP et JAVASCRIPT que j'affectionne beaucoup 😄
 
