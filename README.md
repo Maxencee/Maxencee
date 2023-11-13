@@ -16,7 +16,7 @@
 
 ## 🚀 Projets 
 
-- [Skeddle](https://maksance.alwaysdata.net/skeddle) : Skeddle est une application web inspirée de r/place, le projet social de Reddit. Développée en solo, elle permet aux utilisateurs de créer et de participer à des espaces de dessin collaboratifs en temps réel. Les utilisateurs peuvent choisir leur couleur et dessiner sur une toile virtuelle partagée en temps réel, interagir avec d'autres participants et observer les créations évoluer en direct. Skeddle offre une expérience sociale et créative unique, où les utilisateurs peuvent s'exprimer.
+- [Skeddle](https://maxence-dev.alwaysdata.net) : Skeddle est une application web inspirée de r/place, le projet social de Reddit. Développée en solo, elle permet aux utilisateurs de créer et de participer à des espaces de dessin collaboratifs en temps réel. Les utilisateurs peuvent choisir leur couleur et dessiner sur une toile virtuelle partagée en temps réel, interagir avec d'autres participants et observer les créations évoluer en direct. Skeddle offre une expérience sociale et créative unique, où les utilisateurs peuvent s'exprimer.
 
 - [Reconst](https://reconst.netlify.app/) : Reconst est une application web ludique qui permet aux utilisateurs de visionner et/ou d'écouter une vidéo ou un audio, puis de reconstituer le contenu manquant dans un texte à trous. Le concept est de créer une expérience interactive où les utilisateurs peuvent tester leur compréhension auditive et visuelle en remplissant les blancs dans le texte avec les mots ou les phrases manquants. Reconst offre une approche amusante et stimulante pour améliorer la compréhension des contenus audio-vidéo.
 
