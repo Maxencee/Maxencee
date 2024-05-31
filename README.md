@@ -16,11 +16,11 @@
 
 ## 🚀 Projets 
 
-- [Skeddle](https://maxence-dev.alwaysdata.net) : Skeddle est une application web inspirée de r/place, le projet social de Reddit. Développée en solo, elle permet aux utilisateurs de créer et de participer à des espaces de dessin collaboratifs en temps réel. Les utilisateurs peuvent choisir leur couleur et dessiner sur une toile virtuelle partagée en temps réel, interagir avec d'autres participants et observer les créations évoluer en direct. Skeddle offre une expérience sociale et créative unique, où les utilisateurs peuvent s'exprimer.
+Actuellement je code un framework Full-stack en PHP
 
-- [Reconst](https://reconst.netlify.app/) : Reconst est une application web ludique qui permet aux utilisateurs de visionner et/ou d'écouter une vidéo ou un audio, puis de reconstituer le contenu manquant dans un texte à trous. Le concept est de créer une expérience interactive où les utilisateurs peuvent tester leur compréhension auditive et visuelle en remplissant les blancs dans le texte avec les mots ou les phrases manquants. Reconst offre une approche amusante et stimulante pour améliorer la compréhension des contenus audio-vidéo.
+[Skeddle](https://skeddle.maxence-dev.fr), fresque numérique collaborative (r/place clone)
 
-- [Hunfont](https://perso.univ-lemans.fr/~i2100421/huntfont/) : Huntfont est un site web ludique qui permet aux utilisateurs de jouer à un quiz de polices d'écriture en ligne avec d'autres joueurs. Le concept est simple : les utilisateurs sont présentés à une séquence de 10 polices d'écriture à la suite, et ils doivent choisir parmi 4 propositions le nom de la police utilisée. Les utilisateurs marquent des points pour chaque réponse correcte, et celui qui a le plus de points à la fin du quiz remporte la partie. Huntfont offre une expérience de jeu amusante et compétitive pour les passionnés de typographie et de design graphique.
+Dernièrement j'ai codé un [Viewer 3D pour Mangas](https://github.com/Maxencee/MangaCovers3D) avec THREE JS
 
 ## 📫 Contact 
 
