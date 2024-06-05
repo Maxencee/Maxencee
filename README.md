@@ -9,7 +9,7 @@
 
 ## 💼 Compétences 
 
-- Langages de programmation : PHP, JS (HTML + CSS) 💻
+- Langages de programmation : PHP, JS \[Vanilla - Frameworks\] (HTML + CSS) 💻
 - Développement full stack : du front-end au back-end 🌐
 - Création de projets web amusants et interactifs 😉
 - Autodidacte et apprenant rapide 📖
