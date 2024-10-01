@@ -1,10 +1,17 @@
 # ✨ Bienvenue sur mon profil GitHub ! 
 
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)](https://linkedin.com/in/maxence-guivier)
+[![mail](https://img.shields.io/badge/gmail-D14836)](mailto:maxence.gvr@gmail.com)
+[![resume](https://img.shields.io/badge/resume-%233b65b3.svg)](https://maxence-dev.fr/Maxence-Guivier-CurriculumVitae-DevWebFullStack.pdf)
+[![website](https://img.shields.io/badge/website-maxence--dev.fr-pink)](https://mobile.maxence-dev.fr)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maxencee.maxencee)
+
 ## 🙋‍♂️ À propos de moi 
 
 - Je m'appelle Maxence (aka Maksance) 👨‍💻
-- J'ai 20 ans et je suis un développeur full stack passionné depuis 8 ans 🚀
-- J'apprends et je m'améliore chaque jour en BUT MMI à l'IUT d'Angoulême ! 📚
+- J'ai 21 ans et je suis un développeur full stack passionné depuis 8 ans 🚀
+- J'apprends et je m'améliore chaque jour au CESI du Mans en MAALSI ! 📚
 - Je suis féru de petits projets amusants en PHP et JAVASCRIPT que j'affectionne beaucoup 😄
 
 ## 💼 Compétences 
