@@ -38,8 +38,6 @@ Dernièrement j'ai codé un [Viewer 3D pour Mangas](https://github.com/Maxencee/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxencee&theme=dark&hide_border=true&langs_count=6&include_all_commits=true&count_private=true&layout=compact)
 
-(PHP n'apparaît pas mais c'est au moins 60%) 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxencee&theme=dark&hide_border=true&border_radius=3.5&date_format=j%2Fn%5B%2FY%5D&card_height=140&sideNums=FFBFFC&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+(PHP n'apparaît pas mais c'est au moins 60%)
 
 N'hésitez pas à me poser des questions ou à me proposer des idées pour de nouveaux projets. Je suis toujours ouvert à de nouvelles opportunités de collaboration. 🤝
