@@ -34,10 +34,6 @@ Dernièrement j'ai codé un [Viewer 3D pour Mangas](https://github.com/Maxencee/
 
 - Vous pouvez me contacter par email via [maxence.gvr@gmail.com](mailto:maxence.gvr@gmail.com) 📧
 
-## 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxencee&theme=dark&hide_border=true&langs_count=6&include_all_commits=true&count_private=true&layout=compact)
-
-(PHP n'apparaît pas mais c'est au moins 60%)
+##
 
 N'hésitez pas à me poser des questions ou à me proposer des idées pour de nouveaux projets. Je suis toujours ouvert à de nouvelles opportunités de collaboration. 🤝
