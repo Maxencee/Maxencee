@@ -4,7 +4,6 @@
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:maxence.gvr@gmail.com)
 [![resume](https://img.shields.io/badge/resume-%233b65b3.svg)](https://maxence-dev.fr/Maxence-Guivier-CurriculumVitae-DevWebFullStack.pdf)
 [![buymeacoffee](https://img.shields.io/badge/support%20me-%23ffdd00)](https://buymeacoffee.com/maksance)
-[![website](https://img.shields.io/badge/website-maxence--dev.fr-pink)](https://mobile.maxence-dev.fr)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maxencee.maxencee)
 
