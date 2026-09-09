@@ -10,8 +10,7 @@
 ## 🙋‍♂️ À propos de moi 
 
 - Je m'appelle Maxence (aka Maksance) 👨‍💻
-- J'ai 21 ans et je suis un développeur full stack passionné depuis 8 ans 🚀
-- J'apprends et je m'améliore chaque jour au CESI du Mans en MAALSI ! 📚
+- J'ai 23 ans et je suis un développeur full stack passionné depuis 10 ans 🚀
 - Je suis féru de petits projets amusants en PHP et JAVASCRIPT que j'affectionne beaucoup 😄
 
 ## 💼 Compétences 
