@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)](https://linkedin.com/in/maxence-guivier)
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:maxence.gvr@gmail.com)
-[![resume](https://img.shields.io/badge/resume-%233b65b3.svg)]
+[![resume](https://img.shields.io/badge/resume-%233b65b3.svg)]()
 [![buymeacoffee](https://img.shields.io/badge/support%20me-%23ffdd00)](https://buymeacoffee.com/maksance)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maxencee.maxencee)
